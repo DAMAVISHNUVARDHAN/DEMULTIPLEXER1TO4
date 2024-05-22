@@ -29,3 +29,6 @@ endmodule
 
 # OUTPUT:
 ![image](https://github.com/SivaShankar33/DEMULTIPLEXER1TO4/assets/125188331/091f2d6e-55b5-4243-95bb-225eb7213c24)
+# RESULT
+  hence we have abserved and simulated DEMULTIPLEXER1TO4 using verilog code
+
